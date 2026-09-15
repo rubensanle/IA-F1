@@ -1,0 +1,25 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos
+data/raw/
+data/processed/
+
+# Modelos entrenados
+models/*.pkl
+models/*.joblib
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
